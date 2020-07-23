@@ -1,0 +1,10 @@
+C:\Users\Eduardo\source\repos\eds_maze_game\bin\Debug\eds_maze_game.exe.config
+C:\Users\Eduardo\source\repos\eds_maze_game\bin\Debug\eds_maze_game.exe
+C:\Users\Eduardo\source\repos\eds_maze_game\bin\Debug\eds_maze_game.pdb
+C:\Users\Eduardo\source\repos\eds_maze_game\obj\Debug\eds_maze_game.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\eds_maze_game\obj\Debug\eds_maze_game.Form1.resources
+C:\Users\Eduardo\source\repos\eds_maze_game\obj\Debug\eds_maze_game.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\eds_maze_game\obj\Debug\eds_maze_game.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\eds_maze_game\obj\Debug\eds_maze_game.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\eds_maze_game\obj\Debug\eds_maze_game.exe
+C:\Users\Eduardo\source\repos\eds_maze_game\obj\Debug\eds_maze_game.pdb
